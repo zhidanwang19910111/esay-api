@@ -1,0 +1,8 @@
+log: 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+log: mongodb load success...
+start.sh: line 2: 18733 Hangup                  node server/app.js
+log: 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+log: mongodb load success...
+start.sh: line 2: 19150 Hangup                  node server/app.js
